@@ -1,0 +1,45 @@
+.head-quote{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(63, 146, 179);
+    color: white;
+    height: 5vh;
+}
+.dashboard-container{
+    background-color: rgb(217, 232, 245);
+    height: 90vh;
+}
+
+.Hero-section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.left-side{
+    font-size: medium;
+    margin-right: 50px;
+}
+.first-line{
+    font-size: x-large;
+    color: rgb(28, 28, 92);
+}
+.Medical-text{
+    font-size: xx-large;
+    font-weight: 900;
+    color: black;
+}
+.Centers-text{
+    font-size: xx-large;
+    margin-left: 20px;
+    font-weight: 900;
+    color: rgb(63, 146, 179);
+}
+.last-line{
+    font-size: large;
+    opacity: 50%;
+    margin-bottom: 20px;
+}
+.hero-button{
+    background-color: rgb(63, 146, 179) !important;
+}

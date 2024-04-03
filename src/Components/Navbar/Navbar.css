@@ -1,0 +1,30 @@
+.navbar-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.Medify-heading{
+    margin: 30px 100px;
+    font-weight: 800;
+}
+.main-heading{
+    color:  rgb(63, 146, 179);
+}
+a{
+    text-decoration: none;
+    color: rgb(21, 75, 100);
+    gap: 10p;
+}
+.nav-links{
+    margin: 30px 20px;
+}
+.booking-button{
+    cursor: pointer;
+    background-color:  rgb(63, 146, 179);
+    color: white;
+    height: 5vh;
+    width: 8vw;
+    margin-right: 80px;
+    border: none;
+    border-radius: 20px ;
+}
